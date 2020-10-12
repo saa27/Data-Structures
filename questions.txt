@@ -1,0 +1,13 @@
+1.In an array find the sum of the numbers at prime indexes (2, 3, 5, 7, 11…): This question passed all test cases using brute force method also.
+
+2.Given a number. Find the repeated sum of the digits until a unit digit is obtained. (Ex. for 25 it’s 2+5=7. for 129 it’s 1+2+9=12=>1+2=3).
+
+3.Find the 3rd last consonant in the given input string.
+
+4.Merge two sorted linked list and output the given linked list without using any extra memory.
+
+5.To check if numbers at even indices of an array were even or not.
+
+6.Given any date according to the Gregorian Calendar, the task is to return the day(Monday, Tuesday…etc) on that particular day.
+
+7.To count number of times x(digit) comes in range [l, r].(l& r including).ex-[3, 13], x is 3  output-2.
