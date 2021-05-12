@@ -3,6 +3,8 @@ using namespace std;
 
 class Solution {
 public:
+
+// memoization
     vector<vector<int>> t;
     int solve(vector<int> &nums,int total, int n){
         
